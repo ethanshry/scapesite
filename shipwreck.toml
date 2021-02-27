@@ -1,0 +1,11 @@
+[app]
+name="scapesite"
+version="1.0.0"
+author="Ethan Shry"
+endpoint="https://github.com/ethanshry/scapegoat"
+
+[config]
+lang="static"
+test=""
+run=""
+port=5000
